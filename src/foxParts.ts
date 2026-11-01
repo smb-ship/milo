@@ -1,0 +1,23 @@
+// Generated from the same artwork as rive-assets/svg-layers
+export const PARTS = {
+  tail: "<path d=\"M250 330 C330 342 392 302 372 222\" fill=\"none\" stroke=\"#F28C38\" stroke-width=\"46\" stroke-linecap=\"round\"/><path d=\"M375.6 257.3 C376.3 246.6 375.2 234.8 372 222\" fill=\"none\" stroke=\"#FFF1DC\" stroke-width=\"46\" stroke-linecap=\"round\"/>",
+  body: "<ellipse cx=\"200\" cy=\"322\" rx=\"80\" ry=\"70\" fill=\"#F28C38\"/>",
+  chest: "<ellipse cx=\"200\" cy=\"336\" rx=\"46\" ry=\"54\" fill=\"#FFF1DC\"/>",
+  paws: "<ellipse cx=\"156\" cy=\"384\" rx=\"28\" ry=\"14\" fill=\"#8A5A3C\"/><ellipse cx=\"244\" cy=\"384\" rx=\"28\" ry=\"14\" fill=\"#8A5A3C\"/>",
+  earL: "<path d=\"M110 176 C88 126 90 78 108 48 C116 36 130 40 140 48 C166 68 186 94 194 120Z\" fill=\"#F28C38\"/><path d=\"M122 148 C110 116 110 92 118 74 C134 84 152 100 162 118Z\" fill=\"#B9704A\"/>",
+  earR: "<g transform=\"translate(400 0) scale(-1 1)\"><path d=\"M110 176 C88 126 90 78 108 48 C116 36 130 40 140 48 C166 68 186 94 194 120Z\" fill=\"#F28C38\"/><path d=\"M122 148 C110 116 110 92 118 74 C134 84 152 100 162 118Z\" fill=\"#B9704A\"/></g>",
+  head: "<path d=\"M200 118 C128 118 76 164 72 220 C70 262 112 300 200 300 C288 300 330 262 328 220 C324 164 272 118 200 118Z\" fill=\"#F28C38\"/>",
+  muzzle: "<path d=\"M200 204 C152 200 100 228 88 262 C116 296 154 298 200 298 C246 298 284 296 312 262 C300 228 248 200 200 204Z\" fill=\"#FFF1DC\"/>",
+  cheeks: "<ellipse cx=\"112\" cy=\"252\" rx=\"20\" ry=\"12\" fill=\"#FF9FA8\" opacity=\".6\"/><ellipse cx=\"288\" cy=\"252\" rx=\"20\" ry=\"12\" fill=\"#FF9FA8\" opacity=\".6\"/>",
+  nose: "<ellipse cx=\"200\" cy=\"232\" rx=\"14\" ry=\"10\" fill=\"#3B2A20\"/><ellipse cx=\"195\" cy=\"229\" rx=\"4\" ry=\"2.5\" fill=\"#fff\" opacity=\".5\"/>",
+  browL: "<path d=\"M126 160 Q150 148 174 158\" fill=\"none\" stroke=\"#8A5A3C\" stroke-width=\"6\" stroke-linecap=\"round\"/>",
+  browR: "<path d=\"M226 158 Q250 148 274 160\" fill=\"none\" stroke=\"#8A5A3C\" stroke-width=\"6\" stroke-linecap=\"round\"/>",
+  eyeWhites: "<ellipse cx=\"150\" cy=\"202\" rx=\"25\" ry=\"29\" fill=\"#fff\" stroke=\"#E8D3BD\" stroke-width=\"2\"/><ellipse cx=\"250\" cy=\"202\" rx=\"25\" ry=\"29\" fill=\"#fff\" stroke=\"#E8D3BD\" stroke-width=\"2\"/>",
+  pupils: "<circle cx=\"150\" cy=\"206\" r=\"17\" fill=\"#3B2A20\"/><circle cx=\"156\" cy=\"198\" r=\"5.5\" fill=\"#fff\"/><circle cx=\"144\" cy=\"212\" r=\"2.6\" fill=\"#fff\"/><circle cx=\"250\" cy=\"206\" r=\"17\" fill=\"#3B2A20\"/><circle cx=\"256\" cy=\"198\" r=\"5.5\" fill=\"#fff\"/><circle cx=\"244\" cy=\"212\" r=\"2.6\" fill=\"#fff\"/>",
+  eyesHappy: "<path d=\"M126 210 Q150 176 174 210\" fill=\"none\" stroke=\"#3B2A20\" stroke-width=\"7\" stroke-linecap=\"round\"/><path d=\"M226 210 Q250 176 274 210\" fill=\"none\" stroke=\"#3B2A20\" stroke-width=\"7\" stroke-linecap=\"round\"/>",
+  mouthSmile: "<path d=\"M200 242 L200 254\" stroke=\"#3B2A20\" stroke-width=\"5\" stroke-linecap=\"round\"/><path d=\"M174 254 Q200 282 226 254\" fill=\"none\" stroke=\"#3B2A20\" stroke-width=\"6\" stroke-linecap=\"round\"/>",
+  mouthOpen: "<path d=\"M172 252 Q200 260 228 252 Q226 292 200 294 Q174 292 172 252Z\" fill=\"#7A2E3A\"/><ellipse cx=\"200\" cy=\"283\" rx=\"14\" ry=\"8\" fill=\"#FF8FA0\"/>",
+  mouthHmm: "<path d=\"M184 262 Q196 254 206 260 Q214 264 220 256\" fill=\"none\" stroke=\"#3B2A20\" stroke-width=\"5.5\" stroke-linecap=\"round\"/>",
+  listenWaves: "<g fill=\"none\" stroke=\"#5FB4FF\" stroke-width=\"6\" stroke-linecap=\"round\"><path d=\"M64 150 Q40 190 64 230\"/><path d=\"M42 132 Q8 190 42 248\" opacity=\".6\"/><path d=\"M336 150 Q360 190 336 230\"/><path d=\"M358 132 Q392 190 358 248\" opacity=\".6\"/></g>",
+  thought: "<g stroke=\"#8C7BFF\" stroke-width=\"3\" fill=\"#fff\"><circle cx=\"304\" cy=\"108\" r=\"6\"/><circle cx=\"322\" cy=\"86\" r=\"9\"/><ellipse cx=\"348\" cy=\"46\" rx=\"40\" ry=\"28\"/></g><g fill=\"#8C7BFF\"><circle cx=\"332\" cy=\"46\" r=\"4.5\"/><circle cx=\"348\" cy=\"46\" r=\"4.5\"/><circle cx=\"364\" cy=\"46\" r=\"4.5\"/></g>",
+} as const;
